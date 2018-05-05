@@ -92,7 +92,7 @@ Add it in your root build.gradle at the end of repositories:
 
 ## License
 ```text
-Copyright 2016 Yan Zhenjie
+Copyright 2018 newcaoguo
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
