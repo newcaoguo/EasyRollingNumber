@@ -36,3 +36,10 @@ Add it in your root build.gradle at the end of repositories:
 	}
 
 ```
+### API 说明
+
+| API 名称        | 含 义   |  默 认 值  |
+| --------   | -----:  | :----:  |
+| setPrefixString(String prefixString)    | 设置前缀字符串 |   空     |
+| setPostfixString(String postfixString)        |   设置后缀字符串  |   空   |
+| setDuration(long duration)        |    设置动画持续时间    |  2000 ms  |
