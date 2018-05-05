@@ -6,7 +6,7 @@
 
 ## 效果图如下所示：
 
-
+![演示图](https://github.com/newcaoguo/EasyRollingNumber/blob/master/EasyRollingNumber.gif)
 
 ## 使用方法：
 
