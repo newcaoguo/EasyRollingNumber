@@ -6,7 +6,6 @@
 
 ## 2. 效果展示
 
-效果图如下所示：
 ![演示图](https://github.com/newcaoguo/EasyRollingNumber/blob/master/EasyRollingNumber.gif)
 
 ## 3. 使用方法：
