@@ -1,14 +1,15 @@
-# EasyRollingNumber
+# 1. EasyRollingNumber项目介绍
  > ### `EasyRollingNumber` 项目是用来轻松实现滚动数字效果的一个库。
 
 
 [![](https://jitpack.io/v/newcaoguo/EasyRollingNumber.svg)](https://jitpack.io/#newcaoguo/EasyRollingNumber)
 
-## 效果图如下所示：
+## 2. 效果展示
 
+效果图如下所示：
 ![演示图](https://github.com/newcaoguo/EasyRollingNumber/blob/master/EasyRollingNumber.gif)
 
-## 使用方法：
+## 3. 使用方法：
 
 第一步：
 在你的根目录中的  build.gradle 文件中，repositories 标签下添加一下代码：
@@ -36,7 +37,11 @@ Add it in your root build.gradle at the end of repositories:
 	}
 
 ```
-### API 说明
+
+### 4. 使用示例
+
+
+### 5. API 说明
 
 | API 名称        | 含 义   |  默 认 值  |
 | --------   | -----:  | :----:  |
