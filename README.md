@@ -1,5 +1,5 @@
 # 1. EasyRollingNumber项目介绍
- > 🍎 `EasyRollingNumber` 项目是用来轻松实现滚动数字效果的一个库。
+ > 🍎 `EasyRollingNumber` 项目是一个用来轻松实现滚动数字效果的库。
 
 
 [![](https://jitpack.io/v/newcaoguo/EasyRollingNumber.svg)](https://jitpack.io/#newcaoguo/EasyRollingNumber)
